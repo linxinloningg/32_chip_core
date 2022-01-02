@@ -1,0 +1,13 @@
+首先将“IAP Bootloader”程序下载到开发板内，然后可以通过串口调试助手将“31. FSMC-TFTLCD显示实验--FLASH_APP”中的
+.BIN文件发送到芯片内（操作步骤可见实验截图）。然后操作按键K_UP将固件烧入到芯片FLASH内，按下K_LEFT键可运行FLASH_APP程序。SRAM_APP方法与之类似。
+
+
+如何生成BIN文件？
+我们通过在 KEIL 点击 Options for Target?User 选项卡，在 After Build/Rebuild 栏，
+勾选 Run #1，并写入： J:\mdk5\ARM\ARMCC\bin\fromelf.exe   --bin -o  .\Obj\Template.bin .\Obj\Template.axf。如目录下“BIN文件生成”截图所示。
+通过这一步设置，我们就可以在 KEIL 编译成功之后，调用 fromelf.exe（注意，我的 KEIL 是
+安装在 J:\mdk5 文件夹下， 如果你是安装在其他目录，请根据你自己的目录修改
+fromelf.exe 的路径），根据当前工程的 Template.axf（如果是其他的名字，请记住修改，这个文件存
+放在 Obj 目录下面，格式为 xxx.axf），生成一个 Template.bin 的文件。并存放在 axf 文件相同的目
+录下，即工程的 Obj 文件夹里面。在得到.bin 文件之后，我们只需要将这个 bin 文件传送给单
+片机，即可执行 IAP 升级。
