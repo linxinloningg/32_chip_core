@@ -1,0 +1,10 @@
+.\obj\pngtrans.o: EMWIN\STemWinPNG\pngtrans.c
+.\obj\pngtrans.o: EMWIN\STemWinPNG\png.h
+.\obj\pngtrans.o: EMWIN\STemWinPNG\zlib.h
+.\obj\pngtrans.o: EMWIN\STemWinPNG\zconf.h
+.\obj\pngtrans.o: EMWIN\STemWinPNG\pngconf.h
+.\obj\pngtrans.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\setjmp.h
+.\obj\pngtrans.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\pngtrans.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\pngtrans.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\math.h
+.\obj\pngtrans.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\time.h

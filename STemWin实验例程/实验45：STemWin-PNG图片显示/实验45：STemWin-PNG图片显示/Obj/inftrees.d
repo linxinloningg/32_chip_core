@@ -1,0 +1,9 @@
+.\obj\inftrees.o: EMWIN\STemWinPNG\inftrees.c
+.\obj\inftrees.o: EMWIN\STemWinPNG\zutil.h
+.\obj\inftrees.o: EMWIN\STemWinPNG\zlib.h
+.\obj\inftrees.o: EMWIN\STemWinPNG\zconf.h
+.\obj\inftrees.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\inftrees.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\inftrees.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\inftrees.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\errno.h
+.\obj\inftrees.o: EMWIN\STemWinPNG\inftrees.h

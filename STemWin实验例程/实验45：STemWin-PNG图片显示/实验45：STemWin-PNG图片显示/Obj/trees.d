@@ -1,0 +1,10 @@
+.\obj\trees.o: EMWIN\STemWinPNG\trees.c
+.\obj\trees.o: EMWIN\STemWinPNG\deflate.h
+.\obj\trees.o: EMWIN\STemWinPNG\zutil.h
+.\obj\trees.o: EMWIN\STemWinPNG\zlib.h
+.\obj\trees.o: EMWIN\STemWinPNG\zconf.h
+.\obj\trees.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\trees.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\trees.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\trees.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\errno.h
+.\obj\trees.o: EMWIN\STemWinPNG\trees.h

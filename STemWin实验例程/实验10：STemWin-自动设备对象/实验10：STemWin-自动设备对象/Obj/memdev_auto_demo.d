@@ -1,0 +1,12 @@
+.\obj\memdev_auto_demo.o: EMWIN\STemWin_Demo\Memdev_Auto_demo\memdev_auto_demo.c
+.\obj\memdev_auto_demo.o: EMWIN\STemWin_Demo\Memdev_Auto_demo\memdev_auto_demo.h
+.\obj\memdev_auto_demo.o: .\EMWIN\STemWin\inc\GUI.h
+.\obj\memdev_auto_demo.o: .\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+.\obj\memdev_auto_demo.o: .\EMWIN\STemWin\Config\GUIConf.h
+.\obj\memdev_auto_demo.o: .\EMWIN\STemWin\inc\GUI_Type.h
+.\obj\memdev_auto_demo.o: .\EMWIN\STemWin\inc\LCD.h
+.\obj\memdev_auto_demo.o: .\EMWIN\STemWin\inc\Global.h
+.\obj\memdev_auto_demo.o: .\EMWIN\STemWin\inc\GUI_Version.h
+.\obj\memdev_auto_demo.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\math.h
+.\obj\memdev_auto_demo.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\memdev_auto_demo.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdio.h

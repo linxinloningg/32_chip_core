@@ -1,0 +1,9 @@
+.\obj\number_demo.o: EMWIN\STemWin_Demo\Number_demo\number_demo.c
+.\obj\number_demo.o: EMWIN\STemWin_Demo\Number_demo\number_demo.h
+.\obj\number_demo.o: .\EMWIN\STemWin\inc\GUI.h
+.\obj\number_demo.o: .\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+.\obj\number_demo.o: .\EMWIN\STemWin\Config\GUIConf.h
+.\obj\number_demo.o: .\EMWIN\STemWin\inc\GUI_Type.h
+.\obj\number_demo.o: .\EMWIN\STemWin\inc\LCD.h
+.\obj\number_demo.o: .\EMWIN\STemWin\inc\Global.h
+.\obj\number_demo.o: .\EMWIN\STemWin\inc\GUI_Version.h

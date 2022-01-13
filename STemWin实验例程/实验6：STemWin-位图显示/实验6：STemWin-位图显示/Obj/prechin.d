@@ -1,0 +1,9 @@
+.\obj\prechin.o: EMWIN\STemWin_Demo\Bitmap_demo\prechin.c
+.\obj\prechin.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\prechin.o: .\EMWIN\STemWin\inc\GUI.h
+.\obj\prechin.o: .\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+.\obj\prechin.o: .\EMWIN\STemWin\Config\GUIConf.h
+.\obj\prechin.o: .\EMWIN\STemWin\inc\GUI_Type.h
+.\obj\prechin.o: .\EMWIN\STemWin\inc\LCD.h
+.\obj\prechin.o: .\EMWIN\STemWin\inc\Global.h
+.\obj\prechin.o: .\EMWIN\STemWin\inc\GUI_Version.h

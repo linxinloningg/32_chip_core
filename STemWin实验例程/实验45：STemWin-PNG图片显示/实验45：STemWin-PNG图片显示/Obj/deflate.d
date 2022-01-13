@@ -1,0 +1,9 @@
+.\obj\deflate.o: EMWIN\STemWinPNG\deflate.c
+.\obj\deflate.o: EMWIN\STemWinPNG\deflate.h
+.\obj\deflate.o: EMWIN\STemWinPNG\zutil.h
+.\obj\deflate.o: EMWIN\STemWinPNG\zlib.h
+.\obj\deflate.o: EMWIN\STemWinPNG\zconf.h
+.\obj\deflate.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\deflate.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\deflate.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\deflate.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\errno.h

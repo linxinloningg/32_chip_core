@@ -1,0 +1,10 @@
+.\obj\bitmapcheckxl.o: EMWIN\STemWin_Demo\CheckBox\BitmapCheckXL.c
+.\obj\bitmapcheckxl.o: .\EMWIN\STemWin\inc\GUI.h
+.\obj\bitmapcheckxl.o: .\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+.\obj\bitmapcheckxl.o: .\EMWIN\STemWin\Config\GUIConf.h
+.\obj\bitmapcheckxl.o: .\EMWIN\STemWin\inc\GUI_Type.h
+.\obj\bitmapcheckxl.o: .\EMWIN\STemWin\inc\LCD.h
+.\obj\bitmapcheckxl.o: .\EMWIN\STemWin\inc\Global.h
+.\obj\bitmapcheckxl.o: .\EMWIN\STemWin\inc\GUI_Version.h
+.\obj\bitmapcheckxl.o: EMWIN\STemWin_Demo\CheckBox\checkboxdemo.h
+.\obj\bitmapcheckxl.o: EMWIN\STemWin_Demo\CheckBox\checkboxdemo.h

@@ -1,0 +1,10 @@
+.\obj\pnggccrd.o: EMWIN\STemWinPNG\pnggccrd.c
+.\obj\pnggccrd.o: EMWIN\STemWinPNG\png.h
+.\obj\pnggccrd.o: EMWIN\STemWinPNG\zlib.h
+.\obj\pnggccrd.o: EMWIN\STemWinPNG\zconf.h
+.\obj\pnggccrd.o: EMWIN\STemWinPNG\pngconf.h
+.\obj\pnggccrd.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\setjmp.h
+.\obj\pnggccrd.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\pnggccrd.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\pnggccrd.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\math.h
+.\obj\pnggccrd.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\time.h

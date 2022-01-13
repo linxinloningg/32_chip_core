@@ -1,0 +1,10 @@
+.\obj\pngrutil.o: EMWIN\STemWinPNG\pngrutil.c
+.\obj\pngrutil.o: EMWIN\STemWinPNG\png.h
+.\obj\pngrutil.o: EMWIN\STemWinPNG\zlib.h
+.\obj\pngrutil.o: EMWIN\STemWinPNG\zconf.h
+.\obj\pngrutil.o: EMWIN\STemWinPNG\pngconf.h
+.\obj\pngrutil.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\setjmp.h
+.\obj\pngrutil.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\pngrutil.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\pngrutil.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\math.h
+.\obj\pngrutil.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\time.h

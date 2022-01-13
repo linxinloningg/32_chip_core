@@ -1,0 +1,30 @@
+#ifndef _hc05_H
+#define _hc05_H	
+
+#include "system.h" 
+
+
+#define HC05_ATSET  	PGout(7) 	//À¶ÑÀ¿ØÖÆKEYÐÅºÅ
+#define HC05_STATE  	PEin(6)		//À¶ÑÀÁ¬½Ó×´Ì¬ÐÅºÅ
+  
+u8 HC05_Init(void);
+u8 HC05_Get_Role(void);
+u8 HC05_Set_Cmd(u8* atstr);	
+
+#endif  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

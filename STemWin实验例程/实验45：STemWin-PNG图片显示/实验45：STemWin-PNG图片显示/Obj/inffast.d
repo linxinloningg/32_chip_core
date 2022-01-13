@@ -1,0 +1,11 @@
+.\obj\inffast.o: EMWIN\STemWinPNG\inffast.c
+.\obj\inffast.o: EMWIN\STemWinPNG\zutil.h
+.\obj\inffast.o: EMWIN\STemWinPNG\zlib.h
+.\obj\inffast.o: EMWIN\STemWinPNG\zconf.h
+.\obj\inffast.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\inffast.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\inffast.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\inffast.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\errno.h
+.\obj\inffast.o: EMWIN\STemWinPNG\inftrees.h
+.\obj\inffast.o: EMWIN\STemWinPNG\inflate.h
+.\obj\inffast.o: EMWIN\STemWinPNG\inffast.h

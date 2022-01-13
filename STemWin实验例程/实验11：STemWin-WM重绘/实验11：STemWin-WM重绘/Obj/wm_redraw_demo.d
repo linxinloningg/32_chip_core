@@ -1,0 +1,11 @@
+.\obj\wm_redraw_demo.o: EMWIN\STemWin_Demo\WM_redraw_demo\WM_redraw_demo.c
+.\obj\wm_redraw_demo.o: EMWIN\STemWin_Demo\WM_redraw_demo\WM_redraw_demo.h
+.\obj\wm_redraw_demo.o: .\EMWIN\STemWin\inc\GUI.h
+.\obj\wm_redraw_demo.o: .\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+.\obj\wm_redraw_demo.o: .\EMWIN\STemWin\Config\GUIConf.h
+.\obj\wm_redraw_demo.o: .\EMWIN\STemWin\inc\GUI_Type.h
+.\obj\wm_redraw_demo.o: .\EMWIN\STemWin\inc\LCD.h
+.\obj\wm_redraw_demo.o: .\EMWIN\STemWin\inc\Global.h
+.\obj\wm_redraw_demo.o: .\EMWIN\STemWin\inc\GUI_Version.h
+.\obj\wm_redraw_demo.o: .\EMWIN\STemWin\inc\WM.h
+.\obj\wm_redraw_demo.o: .\EMWIN\STemWin\inc\WM_GUI.h

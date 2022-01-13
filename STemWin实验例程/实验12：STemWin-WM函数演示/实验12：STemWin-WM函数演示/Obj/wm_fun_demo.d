@@ -1,0 +1,12 @@
+.\obj\wm_fun_demo.o: EMWIN\STemWin_Demo\WM_Fun_demo\WM_Fun_demo.c
+.\obj\wm_fun_demo.o: EMWIN\STemWin_Demo\WM_Fun_demo\WM_Fun_demo.h
+.\obj\wm_fun_demo.o: .\EMWIN\STemWin\inc\GUI.h
+.\obj\wm_fun_demo.o: .\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+.\obj\wm_fun_demo.o: .\EMWIN\STemWin\Config\GUIConf.h
+.\obj\wm_fun_demo.o: .\EMWIN\STemWin\inc\GUI_Type.h
+.\obj\wm_fun_demo.o: .\EMWIN\STemWin\inc\LCD.h
+.\obj\wm_fun_demo.o: .\EMWIN\STemWin\inc\Global.h
+.\obj\wm_fun_demo.o: .\EMWIN\STemWin\inc\GUI_Version.h
+.\obj\wm_fun_demo.o: .\EMWIN\STemWin\inc\WM.h
+.\obj\wm_fun_demo.o: .\EMWIN\STemWin\inc\WM_GUI.h
+.\obj\wm_fun_demo.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\string.h
